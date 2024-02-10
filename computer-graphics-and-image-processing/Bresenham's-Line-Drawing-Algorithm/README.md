@@ -32,6 +32,7 @@
 2. **Output** for the given two test cases:
 
    (a) Test Case 1: Draw a line from **P1(1, 1)** to **P2(8, 4)**
+
     
     ![Drawing a line for test case-1](Case_1.png)
    (b) Test Case 1: Draw a line from **P1(1, 1)** to **P2(4, 8)**
